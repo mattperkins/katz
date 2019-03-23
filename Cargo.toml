@@ -1,8 +1,7 @@
 [package]
 name = "katz"
 version = "0.1.0"
-authors = ["mattperkins <github@mattperkins.com>"]
-edition = "2018"
+authors = ["DORMshed"]
 
 [dependencies]
 diesel = { version = "1.2.2", features = ["postgres"] }
